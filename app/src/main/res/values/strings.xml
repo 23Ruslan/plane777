@@ -1,0 +1,22 @@
+<resources>
+    <string name="txt_mainMenu_name">Plane</string>
+    <string name="txt_mainMenu_result">Results</string>
+    <string name="txt_mainMenu_exitGame">Exit</string>
+    <string name="txt_mainMenu_new">New game</string>
+    <string name="txt_mainMenu_setting">Settings</string>
+
+    <string name="load">Please wait, data is loading...</string>
+    <string name="app">Plane</string>
+
+    <string name="txt_top_distances">Top scores</string>
+    <string name="txt_hud_passed">Passed distance</string>
+    <string name="txt_hud_shields">Activated shields (bitcoins)</string>
+    <string name="txt_hud_speed">Speed</string>
+
+    <string name="txt_gameScene_gameOver_exitToMenu">Exit to the main menu</string>
+    <string name="txt_gameScene_ready">Are you ready?</string>
+    <string name="txt_gameScene_gameOver_distance">Passed distance</string>
+    <string name="txt_gameScene_GameOver_gameOver">Game over</string>
+    <string name="txt_gameScene_GameOver_restart">Restart game</string>
+    <string name="textview">TextView</string>
+</resources>
